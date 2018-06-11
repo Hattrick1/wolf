@@ -1,0 +1,13 @@
+{
+  "name": "wolfbot",
+  "version": "0.0.1",
+  "description": "Wolf bot",
+  "main": "bot.3.js",
+  "author": "Hattrick",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.3.2",
+    "moment": "^2.22.2",
+    "request": "^2.87.0"
+  }
+}
